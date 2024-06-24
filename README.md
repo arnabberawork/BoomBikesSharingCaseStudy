@@ -24,11 +24,11 @@ They have contracted a consulting company to understand the factors on which the
 
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
  
- ## Objectives :  
+ ## Objectives
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 Please find the [Bike Sharing dataset](./day.csv) here and [Data dictionary](./Data%20dictionary.txt) here.
 
-## Approach :
+## Approach
 
 - Step 1: Import Necessary Libraries
 - Step 2: Load the Data and Understanding the Data
@@ -50,7 +50,7 @@ Please find the [Bike Sharing dataset](./day.csv) here and [Data dictionary](./D
 - Step 14: Steps for Further Model Refinement and Optimization
 - Step 15: Model Evaluation
 
-## Technologies Used :
+## Technologies Used
 - numpy			: 1.26.4
 - pandas			: 2.2.2
 - seaborn			: 0.13.2
@@ -73,7 +73,7 @@ Please find the [Bike Sharing dataset](./day.csv) here and [Data dictionary](./D
 - traitlets		: 5.7.1
 - conda			: 23.7.4
 
-## Conclusions :
+## Conclusions
 **From the Exploratory Data Analysis , we can conclude the following -**
 - Bike rental counts are lowest in spring and highest in fall, with summer showing significantly peak rentals.
 - There was an increase in bike rentals in 2019 compared to 2018.
@@ -102,12 +102,12 @@ Please find the [Bike Sharing dataset](./day.csv) here and [Data dictionary](./D
 - Weekday Monday: Positive effect on bike demand.
 - Working Day: Increases bike demand.
 
-## Acknowledgements :
+## Acknowledgements
 
 - The project reference course materieals from upGrads curriculm .
 - The project references insights and inferences from presentation in upgrad live class given by [Akashdeep Makkar] ( https://www.linkedin.com/in/akashdeep-makkar-12110880/ )
 
-## Glossary :
+## Glossary
 
 - Data Visualization
 - EDA (Exploratory Data Analysis)
@@ -121,5 +121,5 @@ Please find the [Bike Sharing dataset](./day.csv) here and [Data dictionary](./D
 - Multicollinearity
 - Residuals Analysis
 
-## Author :
+## Author
 * [Arnab Bera] ( https://www.linkedin.com/in/arnabbera1994/ )
