@@ -105,6 +105,7 @@ Please find the [Bike Sharing dataset](./day.csv) here and [Data dictionary](./D
 ## Acknowledgements
 
 - The project reference course materieals from upGrads curriculm .
+- The project references from presentation in upgrad live class given by [Shivam Garg]( https://www.linkedin.com/in/shivam-garg-0494a2ab )
 - The project references insights and inferences from presentation in upgrad live class given by [Akashdeep Makkar]( https://www.linkedin.com/in/akashdeep-makkar-12110880/ )
 
 ## Glossary
