@@ -105,7 +105,7 @@ Please find the [Bike Sharing dataset](./day.csv) here and [Data dictionary](./D
 ## Acknowledgements
 
 - The project reference course materieals from upGrads curriculm .
-- The project references insights and inferences from presentation in upgrad live class given by [Akashdeep Makkar] ( https://www.linkedin.com/in/akashdeep-makkar-12110880/ )
+- The project references insights and inferences from presentation in upgrad live class given by [Akashdeep Makkar]( https://www.linkedin.com/in/akashdeep-makkar-12110880/ )
 
 ## Glossary
 
@@ -122,4 +122,4 @@ Please find the [Bike Sharing dataset](./day.csv) here and [Data dictionary](./D
 - Residuals Analysis
 
 ## Author
-* [Arnab Bera] ( https://www.linkedin.com/in/arnabbera1994/ )
+* [Arnab Bera]( https://www.linkedin.com/in/arnabbera1994/ )
