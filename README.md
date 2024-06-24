@@ -10,7 +10,7 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 * [Glossary](#glossary)
-* [Team](#team)
+* [Author](#author)
 
 
 ## Problem Statement :
@@ -121,5 +121,5 @@ Please find the [Bike Sharing dataset](./day.csv) here and [Data dictionary](./D
 - Multicollinearity
 - Residuals Analysis
 
-## Team :
+## Author :
 * [Arnab Bera] ( https://www.linkedin.com/in/arnabbera1994/ )
